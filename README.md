@@ -6,7 +6,7 @@ This repo intends to help someone unfamiliar with computer programming by provid
 
 Topic|Description
 -----|-----------
-[First Programming Language Options](./docs/00-first-prog-lang-opts.md)|While there are a lot of good programming languages in existent today, here I show why I believe Python is the best first programming language for someone who desires to build games.
+[First Programming Language Options](./docs/00-first-prog-lang-opts.md)|While there are a lot of good programming languages in existence today, here I show why I believe Python is the best first programming language for someone who desires to build games.
 [Setup Environment](./docs/01-setup-env.md)|In this section we will discover the software we need to install to write programs with Python and setup the environment needed for the examples in this repo.
 [Jupyter Notebooks](./docs/02-jupyter-notebooks.md)|One of the features of the Python extension for VS Code is so called Jupyter Notebooks. In this section we will explore using Jupyter Notebooks to incrementally learn a new programming topic.
 [Basics of Programming](./docs/03-basics-of-prog.md)|This section introduces the basic concepts involved in computer programming or software engineering as it is also known.
