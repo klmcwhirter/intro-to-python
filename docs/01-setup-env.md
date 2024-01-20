@@ -49,6 +49,7 @@ Don't worry about understanding the details for now. We will talk through them a
 Then clone this repo using the instructions at [Open a Git repository](https://code.visualstudio.com/docs/sourcecontrol/intro-to-git#_open-a-git-repository).
 
 > NOTE! You do NOT need a github.com account to use the git features in VS Code to clone the repo.
+
 Enter this URL when asked for the repo URL: https://github.com/klmcwhirter/intro-to-python
 
 Then it will ask for a folder into which it should clone the repo. A wise choice is a short path from your home directory.
