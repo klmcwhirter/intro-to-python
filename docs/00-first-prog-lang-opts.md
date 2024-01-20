@@ -58,4 +58,6 @@ It also:
 - has a huge community
 - has a vast ecosystem of related libraries, tools, learning materials, etc.
 
-See this short YouTube video for a very brief overview - [Python in 100 seconds](https://youtu.be/x7X9w_GIm1s)
+See this short YouTube video for a very brief overview.
+
+[![Python in 100 seconds](https://img.youtube.com/vi/x7X9w_GIm1s/0.jpg)](https://youtu.be/x7X9w_GIm1s)
