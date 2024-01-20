@@ -33,3 +33,30 @@ Just click on the "Click here to download" link at the top to get the installer.
 Restart VS Code if it is running.
 
 _There is no need to install a GUI. We will be using the git support built into VS Code._
+
+## Git support in VS Code
+
+To get started with git in VS Code see - [Using Git source control in VS Code](https://code.visualstudio.com/docs/sourcecontrol/overview).
+
+There are a few pretty good videos referenced on that page. But ...
+
+_Source code control is a very large topic. Most of the concepts you will not need until later - if ever._
+
+Don't worry about understanding the details for now. We will talk through them at the right time. I will guide you to get exposed to the concepts as you need them.
+
+## Clone this repo
+
+Then clone this repo using the instructions at [Open a Git repository](https://code.visualstudio.com/docs/sourcecontrol/intro-to-git#_open-a-git-repository).
+
+> NOTE! You do NOT need a github.com account to use the git features in VS Code to clone the repo.
+Enter this URL when asked for the repo URL: https://github.com/klmcwhirter/intro-to-python
+
+Then it will ask for a folder into which it should clone the repo. A wise choice is a short path from your home directory.
+
+On Windows that might be something like `%USERPROFILE%\src`.
+
+Make sure there are no spaces in any of the directory names. For example, do not use `My Documents`.
+
+_On Linux, I use `$HOME/src/github.com/klmcwhirter` because I work with so many repos. That way I know I will never have a naming conflict with any repo I clone whether from github.com, gitlab.com, etc._
+
+But you need not worry about that for now. Just be aware there is an easy solution if and when you run into the problem.
