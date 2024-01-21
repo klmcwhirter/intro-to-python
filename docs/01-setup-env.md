@@ -61,3 +61,24 @@ Make sure there are no spaces in any of the directory names. For example, do not
 _On Linux, I use `$HOME/src/github.com/klmcwhirter` because I work with so many repos. That way I know I will never have a naming conflict with any repo I clone whether from github.com, gitlab.com, etc._
 
 But you need not worry about that for now. Just be aware there is an easy solution if and when you run into the problem.
+
+## Create Python virtual environment
+A Python virtual environment is a directory structure that is local to your user that you can install packages (like pygame) into.
+
+This makes it easy to meet the requirements of the project on which you are working without impacting sny other project.
+
+For example, it is common to have projects that need 20-30 dependencies installed that are specific to that project. The next project my need just a handful of completely different dependencies.
+
+To create the virtual environment, from the root of the repo dir - `src/intro-to-python` - execute the following.
+
+```cmd
+@REM Windows
+call .\examples\create_venv.cmd
+```
+
+```bash
+# bash
+./examples/create_venv
+```
+
+After some processing you should end up with a `.venv` directory in the repo root.
