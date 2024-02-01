@@ -11,5 +11,5 @@ Topic|Description
 [Jupyter Notebooks](./docs/02-jupyter-notebooks.md)|One of the features of the Python extension for VS Code is so called Jupyter Notebooks. In this section we will explore using Jupyter Notebooks to incrementally learn a new programming topic.
 [Basics of Programming](./docs/03-basics-of-prog.md)|This section introduces the basic concepts involved in computer programming or software engineering as it is also known.
 [Writing Games](./docs/04-writing-games.md)|Writing games is a vast and broad topic. In this section we will explore how we can apply some of the things we have learned so far to the art form of game development.
-[PyGame](./docs/05-pygame.md)|Let's take a look at PyGame as one of the most popular libraries for writing games in Python.
+[Pygame-ce](./docs/05-pygame-ce.md)|Let's take a look at PyGame as one of the most popular libraries for writing games in Python.
 [Next Steps](./docs/06-next-steps.md)|What else? Since Python is arguably the most popular general purpose programming languages in use today there are a lot of resources to expand our knowledge of Python ans how it might be used.

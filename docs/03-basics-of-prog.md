@@ -134,7 +134,7 @@ print(add2(1, 2))  # prints 3
 ### Classes
 A class is a blueprint for creating object instances. They are named in TitleCase and are called like a function.
 
-Each _method_ - a function declaration within the class - receives a first arg of _self_. `self` is a reference to the object instance.
+Each _method_ - a function declaration within the class - receives a first arg of _self_. `self` is a reference to the object instance and allows you to access instance properties like `self.first_name` and `self.last_name` below.
 
 For example:
 ```python
@@ -156,6 +156,7 @@ print(person2.full_name())  # prints Charlie Brown
 ```
 
 ### Using a custom module for configuration
+As the number of constants grow in your app it can be helpful to create a custom module to hold all the configuration data. This makes sure that all configuration data is in one place to make it easier to maintain / modify when needed.
 
 _See [03_config/game.py](../examples/03_config/game.py) and [03_config/config.py](../examples/03_config/config.py)_
 

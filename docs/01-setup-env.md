@@ -63,11 +63,11 @@ _On Linux, I use `$HOME/src/github.com/klmcwhirter` because I work with so many 
 But you need not worry about that for now. Just be aware there is an easy solution if and when you run into the problem.
 
 ## Create Python virtual environment
-A Python virtual environment is a directory structure that is local to your user that you can install packages (like pygame) into.
+A Python virtual environment is a directory structure that is local to your user that you can install packages (like pygame-ce) into.
 
-This makes it easy to meet the requirements of the project on which you are working without impacting sny other project.
+This makes it easy to meet the requirements of the project on which you are working without impacting the system or any other project.
 
-For example, it is common to have projects that need 20-30 dependencies installed that are specific to that project. The next project my need just a handful of completely different dependencies.
+For example, it is common to have projects that need 20-30 dependencies installed that are specific to that project. The next project may need just a handful of completely different dependencies.
 
 To create the virtual environment, from the root of the repo dir - `src/intro-to-python` - execute the following.
 
